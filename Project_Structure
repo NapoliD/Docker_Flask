@@ -1,0 +1,9 @@
+Project Structure
+The hands on project on Machine learning with Docker is divided into following tasks:
+
+Task-1: Getting started with Docker and how it helps Machine Learning 
+Task-2: Building a custom Docker Image & Running a Docker Container
+Task-3: Train machine learning models during the Docker image build process
+Task-4: Serialize your models & Perform batch inference using Docker containers
+Task-5: Understand Online Inference with a Real World Example
+Task-6: Use Docker and flask-RESTful to perform online inference
